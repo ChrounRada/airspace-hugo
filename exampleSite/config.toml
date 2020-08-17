@@ -1,4 +1,4 @@
-baseURL = "http://rada-test.netlify.com"
+baseURL = "http://rada_template.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
