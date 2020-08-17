@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: " Our Project"
-    link: project
+    link: PROJECT
 about:
   enable: true
   title: About Us
