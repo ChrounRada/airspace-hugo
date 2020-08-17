@@ -28,7 +28,7 @@ about:
     name: ''
     count: ''
   button:
-    enable: true
+    enable: false
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
